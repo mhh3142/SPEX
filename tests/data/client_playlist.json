@@ -1,0 +1,1655 @@
+{
+    "name": "ILIRA",
+    "items": [
+        {
+            "trackRequest": {
+                "releaseArtists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2E4lzxgBnCEqLawsXeRKWp"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2E4lzxgBnCEqLawsXeRKWp",
+                        "id": "2E4lzxgBnCEqLawsXeRKWp",
+                        "name": "Tomcraft",
+                        "type": "artist",
+                        "uri": "spotify:artist:2E4lzxgBnCEqLawsXeRKWp"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/13BieYgRwIpIknGgwsNHoV"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/13BieYgRwIpIknGgwsNHoV",
+                        "id": "13BieYgRwIpIknGgwsNHoV",
+                        "name": "Max Bering",
+                        "type": "artist",
+                        "uri": "spotify:artist:13BieYgRwIpIknGgwsNHoV"
+                    }
+                ],
+                "featuredArtists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2E4lzxgBnCEqLawsXeRKWp"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2E4lzxgBnCEqLawsXeRKWp",
+                        "id": "2E4lzxgBnCEqLawsXeRKWp",
+                        "name": "Tomcraft",
+                        "type": "artist",
+                        "uri": "spotify:artist:2E4lzxgBnCEqLawsXeRKWp"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/13BieYgRwIpIknGgwsNHoV"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/13BieYgRwIpIknGgwsNHoV",
+                        "id": "13BieYgRwIpIknGgwsNHoV",
+                        "name": "Max Bering",
+                        "type": "artist",
+                        "uri": "spotify:artist:13BieYgRwIpIknGgwsNHoV"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6mzs66iVW15C5iLt0JLt41",
+                        "id": "6mzs66iVW15C5iLt0JLt41",
+                        "name": "ILIRA",
+                        "type": "artist",
+                        "uri": "spotify:artist:6mzs66iVW15C5iLt0JLt41"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4xgFgBZ7CRtgtHcziClOwQ",
+                        "id": "4xgFgBZ7CRtgtHcziClOwQ",
+                        "name": "MOGUAI",
+                        "type": "artist",
+                        "uri": "spotify:artist:4xgFgBZ7CRtgtHcziClOwQ"
+                    }
+                ],
+                "trackTitle": "Happiness (feat. MOGUAI & ILIRA) - Max Bering Remix",
+                "trackId": "4Jst8JcUVEYWB33Ifu6Xjv",
+                "trackDuration": 222580,
+                "isrc": "NLZ542100045",
+                "albumTitle": "Happiness (feat. MOGUAI & ILIRA) [Max Bering Remix]",
+                "albumId": "7rujjvaeZJrLj5tAkcgDtu",
+                "albumType": "single",
+                "releaseDate": "2021-02-08"
+            },
+            "albumRequest": {
+                "upc": "190295023508",
+                "copyRights": [
+                    {
+                        "text": "\u00a9 2021 SpinninRecords.com",
+                        "type": "C"
+                    },
+                    {
+                        "text": "\u2117 2021 SpinninRecords.com",
+                        "type": "P"
+                    }
+                ],
+                "label": "Spinnin' Records"
+            }
+        },
+        {
+            "trackRequest": {
+                "releaseArtists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2E4lzxgBnCEqLawsXeRKWp"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2E4lzxgBnCEqLawsXeRKWp",
+                        "id": "2E4lzxgBnCEqLawsXeRKWp",
+                        "name": "Tomcraft",
+                        "type": "artist",
+                        "uri": "spotify:artist:2E4lzxgBnCEqLawsXeRKWp"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4CA8PTrbq1l5IgyvBA2JSV",
+                        "id": "4CA8PTrbq1l5IgyvBA2JSV",
+                        "name": "Paul Woolford",
+                        "type": "artist",
+                        "uri": "spotify:artist:4CA8PTrbq1l5IgyvBA2JSV"
+                    }
+                ],
+                "featuredArtists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2E4lzxgBnCEqLawsXeRKWp"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2E4lzxgBnCEqLawsXeRKWp",
+                        "id": "2E4lzxgBnCEqLawsXeRKWp",
+                        "name": "Tomcraft",
+                        "type": "artist",
+                        "uri": "spotify:artist:2E4lzxgBnCEqLawsXeRKWp"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4CA8PTrbq1l5IgyvBA2JSV",
+                        "id": "4CA8PTrbq1l5IgyvBA2JSV",
+                        "name": "Paul Woolford",
+                        "type": "artist",
+                        "uri": "spotify:artist:4CA8PTrbq1l5IgyvBA2JSV"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6mzs66iVW15C5iLt0JLt41",
+                        "id": "6mzs66iVW15C5iLt0JLt41",
+                        "name": "ILIRA",
+                        "type": "artist",
+                        "uri": "spotify:artist:6mzs66iVW15C5iLt0JLt41"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4xgFgBZ7CRtgtHcziClOwQ",
+                        "id": "4xgFgBZ7CRtgtHcziClOwQ",
+                        "name": "MOGUAI",
+                        "type": "artist",
+                        "uri": "spotify:artist:4xgFgBZ7CRtgtHcziClOwQ"
+                    }
+                ],
+                "trackTitle": "Happiness (feat. MOGUAI & ILIRA) - Paul Woolford Remix",
+                "trackId": "1PjlGdbF7VBMa3pMKiKTUI",
+                "trackDuration": 203607,
+                "isrc": "NLZ542100608",
+                "albumTitle": "Happiness (feat. MOGUAI & ILIRA) [Paul Woolford Remix]",
+                "albumId": "2yxgW4K9YzmByv2zjgxiZR",
+                "albumType": "single",
+                "releaseDate": "2021-05-07"
+            },
+            "albumRequest": {
+                "upc": "190296701191",
+                "copyRights": [
+                    {
+                        "text": "Spinnin' Deep, \u00a9 2021 SpinninRecords.com",
+                        "type": "C"
+                    },
+                    {
+                        "text": "Spinnin' Deep, \u2117 2021 SpinninRecords.com",
+                        "type": "P"
+                    }
+                ],
+                "label": "Spinnin' Deep"
+            }
+        },
+        {
+            "trackRequest": {
+                "releaseArtists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2o5jDhtHVPhrJdv3cEQ99Z",
+                        "id": "2o5jDhtHVPhrJdv3cEQ99Z",
+                        "name": "Ti\u00ebsto",
+                        "type": "artist",
+                        "uri": "spotify:artist:2o5jDhtHVPhrJdv3cEQ99Z"
+                    }
+                ],
+                "featuredArtists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2o5jDhtHVPhrJdv3cEQ99Z",
+                        "id": "2o5jDhtHVPhrJdv3cEQ99Z",
+                        "name": "Ti\u00ebsto",
+                        "type": "artist",
+                        "uri": "spotify:artist:2o5jDhtHVPhrJdv3cEQ99Z"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6mzs66iVW15C5iLt0JLt41",
+                        "id": "6mzs66iVW15C5iLt0JLt41",
+                        "name": "ILIRA",
+                        "type": "artist",
+                        "uri": "spotify:artist:6mzs66iVW15C5iLt0JLt41"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5OdVywqKqyCWwfE2fZb7IX"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5OdVywqKqyCWwfE2fZb7IX",
+                        "id": "5OdVywqKqyCWwfE2fZb7IX",
+                        "name": "Chico Rose",
+                        "type": "artist",
+                        "uri": "spotify:artist:5OdVywqKqyCWwfE2fZb7IX"
+                    }
+                ],
+                "trackTitle": "Lose You - Chico Rose Remix",
+                "trackId": "3RkwO9256FFaRQk2Tvf0lM",
+                "trackDuration": 155213,
+                "isrc": "CYA112000492",
+                "albumTitle": "Lose You (Chico Rose Remix)",
+                "albumId": "1vHgGXkEnKe5ttIbcJ4zfa",
+                "albumType": "single",
+                "releaseDate": "2020-06-26"
+            },
+            "albumRequest": {
+                "upc": "00602507367978",
+                "copyRights": [
+                    {
+                        "text": "\u00a9 2020 Musical Freedom Label Ltd., under exclusive license to PM:AM Recordings/Universal Music, a division of Universal International Music B.V.",
+                        "type": "C"
+                    },
+                    {
+                        "text": "\u2117 2020 Musical Freedom Label Ltd., under exclusive license to PM:AM Recordings/Universal Music, a division of Universal International Music B.V.",
+                        "type": "P"
+                    }
+                ],
+                "label": "Universal Music, a division of Universal International Music BV"
+            }
+        },
+        {
+            "trackRequest": {
+                "releaseArtists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0bsZ7TPFHa56cscyXwqfER"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0bsZ7TPFHa56cscyXwqfER",
+                        "id": "0bsZ7TPFHa56cscyXwqfER",
+                        "name": "Peachy Pete",
+                        "type": "artist",
+                        "uri": "spotify:artist:0bsZ7TPFHa56cscyXwqfER"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4BThBqcTzRGFRvbddMykk7"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4BThBqcTzRGFRvbddMykk7",
+                        "id": "4BThBqcTzRGFRvbddMykk7",
+                        "name": "Karma Child",
+                        "type": "artist",
+                        "uri": "spotify:artist:4BThBqcTzRGFRvbddMykk7"
+                    }
+                ],
+                "featuredArtists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0bsZ7TPFHa56cscyXwqfER"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0bsZ7TPFHa56cscyXwqfER",
+                        "id": "0bsZ7TPFHa56cscyXwqfER",
+                        "name": "Peachy Pete",
+                        "type": "artist",
+                        "uri": "spotify:artist:0bsZ7TPFHa56cscyXwqfER"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4BThBqcTzRGFRvbddMykk7"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4BThBqcTzRGFRvbddMykk7",
+                        "id": "4BThBqcTzRGFRvbddMykk7",
+                        "name": "Karma Child",
+                        "type": "artist",
+                        "uri": "spotify:artist:4BThBqcTzRGFRvbddMykk7"
+                    }
+                ],
+                "trackTitle": "Jenny From The Block",
+                "trackId": "2w5DM9Z6eHg0SJiTZlUQrN",
+                "trackDuration": 142592,
+                "isrc": "DK4YA2400379",
+                "albumTitle": "Jenny From The Block",
+                "albumId": "2qUbTUoBEQc5E3r6sITjBS",
+                "albumType": "single",
+                "releaseDate": "2024-10-18"
+            },
+            "albumRequest": {
+                "upc": "196872511086",
+                "copyRights": [
+                    {
+                        "text": "(C) 2024 Maison Riche / One Seven Music",
+                        "type": "C"
+                    },
+                    {
+                        "text": "(P) 2024 Maison Riche",
+                        "type": "P"
+                    }
+                ],
+                "label": "One Seven Music"
+            }
+        },
+        {
+            "trackRequest": {
+                "releaseArtists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4BThBqcTzRGFRvbddMykk7"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4BThBqcTzRGFRvbddMykk7",
+                        "id": "4BThBqcTzRGFRvbddMykk7",
+                        "name": "Karma Child",
+                        "type": "artist",
+                        "uri": "spotify:artist:4BThBqcTzRGFRvbddMykk7"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4yVpSZpTSoXXOHMvNy8BFf"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4yVpSZpTSoXXOHMvNy8BFf",
+                        "id": "4yVpSZpTSoXXOHMvNy8BFf",
+                        "name": "Made For",
+                        "type": "artist",
+                        "uri": "spotify:artist:4yVpSZpTSoXXOHMvNy8BFf"
+                    }
+                ],
+                "featuredArtists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4BThBqcTzRGFRvbddMykk7"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4BThBqcTzRGFRvbddMykk7",
+                        "id": "4BThBqcTzRGFRvbddMykk7",
+                        "name": "Karma Child",
+                        "type": "artist",
+                        "uri": "spotify:artist:4BThBqcTzRGFRvbddMykk7"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4yVpSZpTSoXXOHMvNy8BFf"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4yVpSZpTSoXXOHMvNy8BFf",
+                        "id": "4yVpSZpTSoXXOHMvNy8BFf",
+                        "name": "Made For",
+                        "type": "artist",
+                        "uri": "spotify:artist:4yVpSZpTSoXXOHMvNy8BFf"
+                    }
+                ],
+                "trackTitle": "Disfruto",
+                "trackId": "3gbbwC93cE7WkQwBVjuTDo",
+                "trackDuration": 182068,
+                "isrc": "DK4YA2400360",
+                "albumTitle": "Disfruto",
+                "albumId": "5FkMMiC56yb9QY8TTLhZUb",
+                "albumType": "single",
+                "releaseDate": "2024-10-11"
+            },
+            "albumRequest": {
+                "upc": "196872465143",
+                "copyRights": [
+                    {
+                        "text": "(C) 2024 Good Karma",
+                        "type": "C"
+                    },
+                    {
+                        "text": "(P) 2024 Good Karma",
+                        "type": "P"
+                    }
+                ],
+                "label": "Good Karma"
+            }
+        },
+        {
+            "trackRequest": {
+                "releaseArtists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4BThBqcTzRGFRvbddMykk7"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4BThBqcTzRGFRvbddMykk7",
+                        "id": "4BThBqcTzRGFRvbddMykk7",
+                        "name": "Karma Child",
+                        "type": "artist",
+                        "uri": "spotify:artist:4BThBqcTzRGFRvbddMykk7"
+                    }
+                ],
+                "featuredArtists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4BThBqcTzRGFRvbddMykk7"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4BThBqcTzRGFRvbddMykk7",
+                        "id": "4BThBqcTzRGFRvbddMykk7",
+                        "name": "Karma Child",
+                        "type": "artist",
+                        "uri": "spotify:artist:4BThBqcTzRGFRvbddMykk7"
+                    }
+                ],
+                "trackTitle": "Steazin",
+                "trackId": "31hbqBdBaTv8Xjn4CM2siv",
+                "trackDuration": 160766,
+                "isrc": "DK4YA2400207",
+                "albumTitle": "Steazin",
+                "albumId": "0h8MBeGEX1b1FOQOHr1Vqu",
+                "albumType": "single",
+                "releaseDate": "2024-05-24"
+            },
+            "albumRequest": {
+                "upc": "196872071986",
+                "copyRights": [
+                    {
+                        "text": "(C) 2024 Good Karma",
+                        "type": "C"
+                    },
+                    {
+                        "text": "(P) 2024 Good Karma",
+                        "type": "P"
+                    }
+                ],
+                "label": "Good Karma"
+            }
+        },
+        {
+            "trackRequest": {
+                "releaseArtists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4BThBqcTzRGFRvbddMykk7"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4BThBqcTzRGFRvbddMykk7",
+                        "id": "4BThBqcTzRGFRvbddMykk7",
+                        "name": "Karma Child",
+                        "type": "artist",
+                        "uri": "spotify:artist:4BThBqcTzRGFRvbddMykk7"
+                    }
+                ],
+                "featuredArtists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4BThBqcTzRGFRvbddMykk7"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4BThBqcTzRGFRvbddMykk7",
+                        "id": "4BThBqcTzRGFRvbddMykk7",
+                        "name": "Karma Child",
+                        "type": "artist",
+                        "uri": "spotify:artist:4BThBqcTzRGFRvbddMykk7"
+                    }
+                ],
+                "trackTitle": "Chalice",
+                "trackId": "22zuR4MWHFzc2ajWbokkPs",
+                "trackDuration": 159223,
+                "isrc": "DK4YA2400109",
+                "albumTitle": "Chalice",
+                "albumId": "6FlIQRzrki2yeBNYhKTzOf",
+                "albumType": "single",
+                "releaseDate": "2024-03-22"
+            },
+            "albumRequest": {
+                "upc": "196871871952",
+                "copyRights": [
+                    {
+                        "text": "(C) 2024 Good Karma",
+                        "type": "C"
+                    },
+                    {
+                        "text": "(P) 2024 Good Karma",
+                        "type": "P"
+                    }
+                ],
+                "label": "Good Karma"
+            }
+        },
+        {
+            "trackRequest": {
+                "releaseArtists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/52NQGJWKvdWMbKxThs2fNC",
+                        "id": "52NQGJWKvdWMbKxThs2fNC",
+                        "name": "Peter Peter",
+                        "type": "artist",
+                        "uri": "spotify:artist:52NQGJWKvdWMbKxThs2fNC"
+                    }
+                ],
+                "featuredArtists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/52NQGJWKvdWMbKxThs2fNC",
+                        "id": "52NQGJWKvdWMbKxThs2fNC",
+                        "name": "Peter Peter",
+                        "type": "artist",
+                        "uri": "spotify:artist:52NQGJWKvdWMbKxThs2fNC"
+                    }
+                ],
+                "trackTitle": "Noir \u00e9den",
+                "trackId": "2jZsBF0p2ZWts7ZdeAUrp6",
+                "trackDuration": 321266,
+                "isrc": "CAA501737307",
+                "albumTitle": "Noir \u00c9den",
+                "albumId": "0A82O5ISexanfOzs9OkZeg",
+                "albumType": "album",
+                "releaseDate": "2017-02-24"
+            },
+            "albumRequest": {
+                "upc": "191018760113",
+                "copyRights": [
+                    {
+                        "text": "(C) 2016 Les Disques Audiogramme inc.",
+                        "type": "C"
+                    },
+                    {
+                        "text": "(P) 2016 Les Disques Audiogramme inc.",
+                        "type": "P"
+                    }
+                ],
+                "label": "Audiogram"
+            }
+        },
+        {
+            "trackRequest": {
+                "releaseArtists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7HhJWsMzU0gc2q7uqnjT7A"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7HhJWsMzU0gc2q7uqnjT7A",
+                        "id": "7HhJWsMzU0gc2q7uqnjT7A",
+                        "name": "Anais Robin",
+                        "type": "artist",
+                        "uri": "spotify:artist:7HhJWsMzU0gc2q7uqnjT7A"
+                    }
+                ],
+                "featuredArtists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7HhJWsMzU0gc2q7uqnjT7A"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7HhJWsMzU0gc2q7uqnjT7A",
+                        "id": "7HhJWsMzU0gc2q7uqnjT7A",
+                        "name": "Anais Robin",
+                        "type": "artist",
+                        "uri": "spotify:artist:7HhJWsMzU0gc2q7uqnjT7A"
+                    }
+                ],
+                "trackTitle": "TRAHIE",
+                "trackId": "4g8XGpqhZnCVAw3JfnEMIW",
+                "trackDuration": 144635,
+                "isrc": "QM6MZ2408052",
+                "albumTitle": "TRAHIE",
+                "albumId": "4kjdykocvpQ1ZQEjeCUbvF",
+                "albumType": "single",
+                "releaseDate": "2024-03-30"
+            },
+            "albumRequest": {
+                "upc": "198391103421",
+                "copyRights": [
+                    {
+                        "text": "(C) 2024 GAB&JO",
+                        "type": "C"
+                    },
+                    {
+                        "text": "(P) 2024 GAB&JO",
+                        "type": "P"
+                    }
+                ],
+                "label": "GAB&JO"
+            }
+        },
+        {
+            "trackRequest": {
+                "releaseArtists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5wWtlDqAUt8xRhUpREy6GI"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5wWtlDqAUt8xRhUpREy6GI",
+                        "id": "5wWtlDqAUt8xRhUpREy6GI",
+                        "name": "JAQUARE MBUL WIZLEE",
+                        "type": "artist",
+                        "uri": "spotify:artist:5wWtlDqAUt8xRhUpREy6GI"
+                    }
+                ],
+                "featuredArtists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5wWtlDqAUt8xRhUpREy6GI"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5wWtlDqAUt8xRhUpREy6GI",
+                        "id": "5wWtlDqAUt8xRhUpREy6GI",
+                        "name": "JAQUARE MBUL WIZLEE",
+                        "type": "artist",
+                        "uri": "spotify:artist:5wWtlDqAUt8xRhUpREy6GI"
+                    }
+                ],
+                "trackTitle": "Nitakubeleza",
+                "trackId": "4S6p9wNClkz2pZmmkHZejn",
+                "trackDuration": 191947,
+                "isrc": "SE6XW2132846",
+                "albumTitle": "Nitakubeleza",
+                "albumId": "2Hl7GRn7JzHMUY6jrstXgo",
+                "albumType": "single",
+                "releaseDate": "2021-09-06"
+            },
+            "albumRequest": {
+                "upc": "7316211900798",
+                "copyRights": [
+                    {
+                        "text": "2021 Legendary ennt",
+                        "type": "C"
+                    },
+                    {
+                        "text": "2021 Legendary ennt",
+                        "type": "P"
+                    }
+                ],
+                "label": "Legendary ennt"
+            }
+        },
+        {
+            "trackRequest": {
+                "releaseArtists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7EkzQPP0cgt2qCnXUg6PHj",
+                        "id": "7EkzQPP0cgt2qCnXUg6PHj",
+                        "name": "Ghostly Kisses",
+                        "type": "artist",
+                        "uri": "spotify:artist:7EkzQPP0cgt2qCnXUg6PHj"
+                    }
+                ],
+                "featuredArtists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7EkzQPP0cgt2qCnXUg6PHj",
+                        "id": "7EkzQPP0cgt2qCnXUg6PHj",
+                        "name": "Ghostly Kisses",
+                        "type": "artist",
+                        "uri": "spotify:artist:7EkzQPP0cgt2qCnXUg6PHj"
+                    }
+                ],
+                "trackTitle": "Heartbeat",
+                "trackId": "7BjZD4TVbmqNAJpEbvS6By",
+                "trackDuration": 230587,
+                "isrc": "QMFME2104653",
+                "albumTitle": "Heaven, Wait",
+                "albumId": "5kQwGFGp61L6iYlk8tgHCS",
+                "albumType": "album",
+                "releaseDate": "2022-01-28"
+            },
+            "albumRequest": {
+                "upc": "196006985172",
+                "copyRights": [
+                    {
+                        "text": "(C) 2022 Akira Records",
+                        "type": "C"
+                    },
+                    {
+                        "text": "(P) 2022 Akira Records",
+                        "type": "P"
+                    }
+                ],
+                "label": "Akira Records"
+            }
+        },
+        {
+            "trackRequest": {
+                "releaseArtists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7EkzQPP0cgt2qCnXUg6PHj",
+                        "id": "7EkzQPP0cgt2qCnXUg6PHj",
+                        "name": "Ghostly Kisses",
+                        "type": "artist",
+                        "uri": "spotify:artist:7EkzQPP0cgt2qCnXUg6PHj"
+                    }
+                ],
+                "featuredArtists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7EkzQPP0cgt2qCnXUg6PHj",
+                        "id": "7EkzQPP0cgt2qCnXUg6PHj",
+                        "name": "Ghostly Kisses",
+                        "type": "artist",
+                        "uri": "spotify:artist:7EkzQPP0cgt2qCnXUg6PHj"
+                    }
+                ],
+                "trackTitle": "Heaven, Wait",
+                "trackId": "1YaMPjTtktS4IMUZEUvuds",
+                "trackDuration": 184334,
+                "isrc": "QMFME2104654",
+                "albumTitle": "Heaven, Wait",
+                "albumId": "5kQwGFGp61L6iYlk8tgHCS",
+                "albumType": "album",
+                "releaseDate": "2022-01-28"
+            },
+            "albumRequest": {
+                "upc": "196006985172",
+                "copyRights": [
+                    {
+                        "text": "(C) 2022 Akira Records",
+                        "type": "C"
+                    },
+                    {
+                        "text": "(P) 2022 Akira Records",
+                        "type": "P"
+                    }
+                ],
+                "label": "Akira Records"
+            }
+        },
+        {
+            "trackRequest": {
+                "releaseArtists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7EkzQPP0cgt2qCnXUg6PHj",
+                        "id": "7EkzQPP0cgt2qCnXUg6PHj",
+                        "name": "Ghostly Kisses",
+                        "type": "artist",
+                        "uri": "spotify:artist:7EkzQPP0cgt2qCnXUg6PHj"
+                    }
+                ],
+                "featuredArtists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7EkzQPP0cgt2qCnXUg6PHj",
+                        "id": "7EkzQPP0cgt2qCnXUg6PHj",
+                        "name": "Ghostly Kisses",
+                        "type": "artist",
+                        "uri": "spotify:artist:7EkzQPP0cgt2qCnXUg6PHj"
+                    }
+                ],
+                "trackTitle": "Don't Know Why",
+                "trackId": "1ukvyO3hy4NQ59MTPOOWFz",
+                "trackDuration": 189305,
+                "isrc": "QM7282107548",
+                "albumTitle": "Heaven, Wait",
+                "albumId": "5kQwGFGp61L6iYlk8tgHCS",
+                "albumType": "album",
+                "releaseDate": "2022-01-28"
+            },
+            "albumRequest": {
+                "upc": "196006985172",
+                "copyRights": [
+                    {
+                        "text": "(C) 2022 Akira Records",
+                        "type": "C"
+                    },
+                    {
+                        "text": "(P) 2022 Akira Records",
+                        "type": "P"
+                    }
+                ],
+                "label": "Akira Records"
+            }
+        },
+        {
+            "trackRequest": {
+                "releaseArtists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7EkzQPP0cgt2qCnXUg6PHj",
+                        "id": "7EkzQPP0cgt2qCnXUg6PHj",
+                        "name": "Ghostly Kisses",
+                        "type": "artist",
+                        "uri": "spotify:artist:7EkzQPP0cgt2qCnXUg6PHj"
+                    }
+                ],
+                "featuredArtists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7EkzQPP0cgt2qCnXUg6PHj",
+                        "id": "7EkzQPP0cgt2qCnXUg6PHj",
+                        "name": "Ghostly Kisses",
+                        "type": "artist",
+                        "uri": "spotify:artist:7EkzQPP0cgt2qCnXUg6PHj"
+                    }
+                ],
+                "trackTitle": "Blackbirds",
+                "trackId": "65y4rIRzaY2B0kOGv8HuIi",
+                "trackDuration": 314539,
+                "isrc": "QMFME2104655",
+                "albumTitle": "Heaven, Wait",
+                "albumId": "5kQwGFGp61L6iYlk8tgHCS",
+                "albumType": "album",
+                "releaseDate": "2022-01-28"
+            },
+            "albumRequest": {
+                "upc": "196006985172",
+                "copyRights": [
+                    {
+                        "text": "(C) 2022 Akira Records",
+                        "type": "C"
+                    },
+                    {
+                        "text": "(P) 2022 Akira Records",
+                        "type": "P"
+                    }
+                ],
+                "label": "Akira Records"
+            }
+        },
+        {
+            "trackRequest": {
+                "releaseArtists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7EkzQPP0cgt2qCnXUg6PHj",
+                        "id": "7EkzQPP0cgt2qCnXUg6PHj",
+                        "name": "Ghostly Kisses",
+                        "type": "artist",
+                        "uri": "spotify:artist:7EkzQPP0cgt2qCnXUg6PHj"
+                    }
+                ],
+                "featuredArtists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7EkzQPP0cgt2qCnXUg6PHj",
+                        "id": "7EkzQPP0cgt2qCnXUg6PHj",
+                        "name": "Ghostly Kisses",
+                        "type": "artist",
+                        "uri": "spotify:artist:7EkzQPP0cgt2qCnXUg6PHj"
+                    }
+                ],
+                "trackTitle": "A Different Kind of Love",
+                "trackId": "6L2xKimBykFeC3Qwe6NuHL",
+                "trackDuration": 240918,
+                "isrc": "QMFME2104656",
+                "albumTitle": "Heaven, Wait",
+                "albumId": "5kQwGFGp61L6iYlk8tgHCS",
+                "albumType": "album",
+                "releaseDate": "2022-01-28"
+            },
+            "albumRequest": {
+                "upc": "196006985172",
+                "copyRights": [
+                    {
+                        "text": "(C) 2022 Akira Records",
+                        "type": "C"
+                    },
+                    {
+                        "text": "(P) 2022 Akira Records",
+                        "type": "P"
+                    }
+                ],
+                "label": "Akira Records"
+            }
+        },
+        {
+            "trackRequest": {
+                "releaseArtists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7EkzQPP0cgt2qCnXUg6PHj",
+                        "id": "7EkzQPP0cgt2qCnXUg6PHj",
+                        "name": "Ghostly Kisses",
+                        "type": "artist",
+                        "uri": "spotify:artist:7EkzQPP0cgt2qCnXUg6PHj"
+                    }
+                ],
+                "featuredArtists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7EkzQPP0cgt2qCnXUg6PHj",
+                        "id": "7EkzQPP0cgt2qCnXUg6PHj",
+                        "name": "Ghostly Kisses",
+                        "type": "artist",
+                        "uri": "spotify:artist:7EkzQPP0cgt2qCnXUg6PHj"
+                    }
+                ],
+                "trackTitle": "Clay",
+                "trackId": "2uLR2qt1kha1L4NtI82Avf",
+                "trackDuration": 279476,
+                "isrc": "QMFME2104658",
+                "albumTitle": "Heaven, Wait",
+                "albumId": "5kQwGFGp61L6iYlk8tgHCS",
+                "albumType": "album",
+                "releaseDate": "2022-01-28"
+            },
+            "albumRequest": {
+                "upc": "196006985172",
+                "copyRights": [
+                    {
+                        "text": "(C) 2022 Akira Records",
+                        "type": "C"
+                    },
+                    {
+                        "text": "(P) 2022 Akira Records",
+                        "type": "P"
+                    }
+                ],
+                "label": "Akira Records"
+            }
+        },
+        {
+            "trackRequest": {
+                "releaseArtists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7EkzQPP0cgt2qCnXUg6PHj",
+                        "id": "7EkzQPP0cgt2qCnXUg6PHj",
+                        "name": "Ghostly Kisses",
+                        "type": "artist",
+                        "uri": "spotify:artist:7EkzQPP0cgt2qCnXUg6PHj"
+                    }
+                ],
+                "featuredArtists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7EkzQPP0cgt2qCnXUg6PHj",
+                        "id": "7EkzQPP0cgt2qCnXUg6PHj",
+                        "name": "Ghostly Kisses",
+                        "type": "artist",
+                        "uri": "spotify:artist:7EkzQPP0cgt2qCnXUg6PHj"
+                    }
+                ],
+                "trackTitle": "Carry Me",
+                "trackId": "26BKBrI5FJafWsBM3bF2VJ",
+                "trackDuration": 202580,
+                "isrc": "QMFME2104659",
+                "albumTitle": "Heaven, Wait",
+                "albumId": "5kQwGFGp61L6iYlk8tgHCS",
+                "albumType": "album",
+                "releaseDate": "2022-01-28"
+            },
+            "albumRequest": {
+                "upc": "196006985172",
+                "copyRights": [
+                    {
+                        "text": "(C) 2022 Akira Records",
+                        "type": "C"
+                    },
+                    {
+                        "text": "(P) 2022 Akira Records",
+                        "type": "P"
+                    }
+                ],
+                "label": "Akira Records"
+            }
+        },
+        {
+            "trackRequest": {
+                "releaseArtists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7EkzQPP0cgt2qCnXUg6PHj",
+                        "id": "7EkzQPP0cgt2qCnXUg6PHj",
+                        "name": "Ghostly Kisses",
+                        "type": "artist",
+                        "uri": "spotify:artist:7EkzQPP0cgt2qCnXUg6PHj"
+                    }
+                ],
+                "featuredArtists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7EkzQPP0cgt2qCnXUg6PHj",
+                        "id": "7EkzQPP0cgt2qCnXUg6PHj",
+                        "name": "Ghostly Kisses",
+                        "type": "artist",
+                        "uri": "spotify:artist:7EkzQPP0cgt2qCnXUg6PHj"
+                    }
+                ],
+                "trackTitle": "Play Dead",
+                "trackId": "6TrWZwI1seTxG2oYreTxIp",
+                "trackDuration": 103665,
+                "isrc": "QMFME2104660",
+                "albumTitle": "Heaven, Wait",
+                "albumId": "5kQwGFGp61L6iYlk8tgHCS",
+                "albumType": "album",
+                "releaseDate": "2022-01-28"
+            },
+            "albumRequest": {
+                "upc": "196006985172",
+                "copyRights": [
+                    {
+                        "text": "(C) 2022 Akira Records",
+                        "type": "C"
+                    },
+                    {
+                        "text": "(P) 2022 Akira Records",
+                        "type": "P"
+                    }
+                ],
+                "label": "Akira Records"
+            }
+        },
+        {
+            "trackRequest": {
+                "releaseArtists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7EkzQPP0cgt2qCnXUg6PHj",
+                        "id": "7EkzQPP0cgt2qCnXUg6PHj",
+                        "name": "Ghostly Kisses",
+                        "type": "artist",
+                        "uri": "spotify:artist:7EkzQPP0cgt2qCnXUg6PHj"
+                    }
+                ],
+                "featuredArtists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7EkzQPP0cgt2qCnXUg6PHj",
+                        "id": "7EkzQPP0cgt2qCnXUg6PHj",
+                        "name": "Ghostly Kisses",
+                        "type": "artist",
+                        "uri": "spotify:artist:7EkzQPP0cgt2qCnXUg6PHj"
+                    }
+                ],
+                "trackTitle": "Green Book",
+                "trackId": "7D67AtCaUDjki6L9BQ8owl",
+                "trackDuration": 183888,
+                "isrc": "QMFME2104630",
+                "albumTitle": "Heaven, Wait",
+                "albumId": "5kQwGFGp61L6iYlk8tgHCS",
+                "albumType": "album",
+                "releaseDate": "2022-01-28"
+            },
+            "albumRequest": {
+                "upc": "196006985172",
+                "copyRights": [
+                    {
+                        "text": "(C) 2022 Akira Records",
+                        "type": "C"
+                    },
+                    {
+                        "text": "(P) 2022 Akira Records",
+                        "type": "P"
+                    }
+                ],
+                "label": "Akira Records"
+            }
+        },
+        {
+            "trackRequest": {
+                "releaseArtists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7EkzQPP0cgt2qCnXUg6PHj",
+                        "id": "7EkzQPP0cgt2qCnXUg6PHj",
+                        "name": "Ghostly Kisses",
+                        "type": "artist",
+                        "uri": "spotify:artist:7EkzQPP0cgt2qCnXUg6PHj"
+                    }
+                ],
+                "featuredArtists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7EkzQPP0cgt2qCnXUg6PHj",
+                        "id": "7EkzQPP0cgt2qCnXUg6PHj",
+                        "name": "Ghostly Kisses",
+                        "type": "artist",
+                        "uri": "spotify:artist:7EkzQPP0cgt2qCnXUg6PHj"
+                    }
+                ],
+                "trackTitle": "Your Heart is Gold",
+                "trackId": "68CJK9PvWXlcxTcytCeNhq",
+                "trackDuration": 235221,
+                "isrc": "QMFME2104662",
+                "albumTitle": "Heaven, Wait",
+                "albumId": "5kQwGFGp61L6iYlk8tgHCS",
+                "albumType": "album",
+                "releaseDate": "2022-01-28"
+            },
+            "albumRequest": {
+                "upc": "196006985172",
+                "copyRights": [
+                    {
+                        "text": "(C) 2022 Akira Records",
+                        "type": "C"
+                    },
+                    {
+                        "text": "(P) 2022 Akira Records",
+                        "type": "P"
+                    }
+                ],
+                "label": "Akira Records"
+            }
+        },
+        {
+            "trackRequest": {
+                "releaseArtists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6roDXEmZ6AARdOUv6x5U2v",
+                        "id": "6roDXEmZ6AARdOUv6x5U2v",
+                        "name": "Felix Cartal",
+                        "type": "artist",
+                        "uri": "spotify:artist:6roDXEmZ6AARdOUv6x5U2v"
+                    }
+                ],
+                "featuredArtists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6roDXEmZ6AARdOUv6x5U2v",
+                        "id": "6roDXEmZ6AARdOUv6x5U2v",
+                        "name": "Felix Cartal",
+                        "type": "artist",
+                        "uri": "spotify:artist:6roDXEmZ6AARdOUv6x5U2v"
+                    }
+                ],
+                "trackTitle": "Get What You Give",
+                "trackId": "7Kur4cXMHU8KE1AHKQD7w7",
+                "trackDuration": 219173,
+                "isrc": "CAM371602233",
+                "albumTitle": "Next Season",
+                "albumId": "0SyIOIfOM9lINTDWwtIg3R",
+                "albumType": "album",
+                "releaseDate": "2018-05-04"
+            },
+            "albumRequest": {
+                "upc": "823675090738",
+                "copyRights": [
+                    {
+                        "text": "\u00a9 2018 Physical Presents",
+                        "type": "C"
+                    },
+                    {
+                        "text": "\u2117 2018 Physical Presents",
+                        "type": "P"
+                    }
+                ],
+                "label": "Physical Presents"
+            }
+        },
+        {
+            "trackRequest": {
+                "releaseArtists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6roDXEmZ6AARdOUv6x5U2v",
+                        "id": "6roDXEmZ6AARdOUv6x5U2v",
+                        "name": "Felix Cartal",
+                        "type": "artist",
+                        "uri": "spotify:artist:6roDXEmZ6AARdOUv6x5U2v"
+                    }
+                ],
+                "featuredArtists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6roDXEmZ6AARdOUv6x5U2v",
+                        "id": "6roDXEmZ6AARdOUv6x5U2v",
+                        "name": "Felix Cartal",
+                        "type": "artist",
+                        "uri": "spotify:artist:6roDXEmZ6AARdOUv6x5U2v"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5rG00A9pRANrMDzVI3DrmF",
+                        "id": "5rG00A9pRANrMDzVI3DrmF",
+                        "name": "DLMT",
+                        "type": "artist",
+                        "uri": "spotify:artist:5rG00A9pRANrMDzVI3DrmF"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0t6jYtttwVm0ycLiwtJmUl"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0t6jYtttwVm0ycLiwtJmUl",
+                        "id": "0t6jYtttwVm0ycLiwtJmUl",
+                        "name": "Vanrip",
+                        "type": "artist",
+                        "uri": "spotify:artist:0t6jYtttwVm0ycLiwtJmUl"
+                    }
+                ],
+                "trackTitle": "Get What You Give - DLMT & Vanrip Remix",
+                "trackId": "4ZhSOHlF9pwxK0XcVomuX7",
+                "trackDuration": 285133,
+                "isrc": "CAM371702367",
+                "albumTitle": "Get What You Give (Remixes)",
+                "albumId": "7AoMsnUDNgNQK1Zx1WXvUe",
+                "albumType": "single",
+                "releaseDate": "2017-08-11"
+            },
+            "albumRequest": {
+                "upc": "00602557924329",
+                "copyRights": [
+                    {
+                        "text": "\u00a9 2017 Enhanced Music Limited, under exclusive licence to Universal Music Operations Limited",
+                        "type": "C"
+                    },
+                    {
+                        "text": "\u2117 2017 Enhanced Music Limited, under exclusive licence to Universal Music Operations Limited",
+                        "type": "P"
+                    }
+                ],
+                "label": "Polydor Records"
+            }
+        },
+        {
+            "trackRequest": {
+                "releaseArtists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6roDXEmZ6AARdOUv6x5U2v",
+                        "id": "6roDXEmZ6AARdOUv6x5U2v",
+                        "name": "Felix Cartal",
+                        "type": "artist",
+                        "uri": "spotify:artist:6roDXEmZ6AARdOUv6x5U2v"
+                    }
+                ],
+                "featuredArtists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6roDXEmZ6AARdOUv6x5U2v",
+                        "id": "6roDXEmZ6AARdOUv6x5U2v",
+                        "name": "Felix Cartal",
+                        "type": "artist",
+                        "uri": "spotify:artist:6roDXEmZ6AARdOUv6x5U2v"
+                    }
+                ],
+                "trackTitle": "Get What You Give",
+                "trackId": "3AsOKLwiG1nEMCFcyiC3tM",
+                "trackDuration": 219173,
+                "isrc": "CAM371602233",
+                "albumTitle": "Get What You Give",
+                "albumId": "48hmSz4Zh05DEA3eJEtHX3",
+                "albumType": "single",
+                "releaseDate": "2017-06-09"
+            },
+            "albumRequest": {
+                "upc": "00602557766219",
+                "copyRights": [
+                    {
+                        "text": "\u00a9 2017 Enhanced Music Limited, under exclusive licence to Universal Music Operations Limited",
+                        "type": "C"
+                    },
+                    {
+                        "text": "\u2117 2017 Enhanced Music Limited, under exclusive licence to Universal Music Operations Limited",
+                        "type": "P"
+                    }
+                ],
+                "label": "Polydor Records"
+            }
+        },
+        {
+            "trackRequest": {
+                "releaseArtists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6roDXEmZ6AARdOUv6x5U2v",
+                        "id": "6roDXEmZ6AARdOUv6x5U2v",
+                        "name": "Felix Cartal",
+                        "type": "artist",
+                        "uri": "spotify:artist:6roDXEmZ6AARdOUv6x5U2v"
+                    }
+                ],
+                "featuredArtists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6roDXEmZ6AARdOUv6x5U2v",
+                        "id": "6roDXEmZ6AARdOUv6x5U2v",
+                        "name": "Felix Cartal",
+                        "type": "artist",
+                        "uri": "spotify:artist:6roDXEmZ6AARdOUv6x5U2v"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1ic0FHNGIjXZAWH6O6Reif",
+                        "id": "1ic0FHNGIjXZAWH6O6Reif",
+                        "name": "Ship Wrek",
+                        "type": "artist",
+                        "uri": "spotify:artist:1ic0FHNGIjXZAWH6O6Reif"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/31Fhago9BJoUASlISFmieX"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/31Fhago9BJoUASlISFmieX",
+                        "id": "31Fhago9BJoUASlISFmieX",
+                        "name": "Part Native",
+                        "type": "artist",
+                        "uri": "spotify:artist:31Fhago9BJoUASlISFmieX"
+                    }
+                ],
+                "trackTitle": "Get What You Give - Ship Wrek & Part Native Remix",
+                "trackId": "3vW4cNlHgIFbPLwmrvAUoC",
+                "trackDuration": 202285,
+                "isrc": "CAM371702369",
+                "albumTitle": "Get What You Give (Remixes)",
+                "albumId": "7AoMsnUDNgNQK1Zx1WXvUe",
+                "albumType": "single",
+                "releaseDate": "2017-08-11"
+            },
+            "albumRequest": {
+                "upc": "00602557924329",
+                "copyRights": [
+                    {
+                        "text": "\u00a9 2017 Enhanced Music Limited, under exclusive licence to Universal Music Operations Limited",
+                        "type": "C"
+                    },
+                    {
+                        "text": "\u2117 2017 Enhanced Music Limited, under exclusive licence to Universal Music Operations Limited",
+                        "type": "P"
+                    }
+                ],
+                "label": "Polydor Records"
+            }
+        },
+        {
+            "trackRequest": {
+                "releaseArtists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/521qvhdobR0GzhvU6TFw76"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/521qvhdobR0GzhvU6TFw76",
+                        "id": "521qvhdobR0GzhvU6TFw76",
+                        "name": "Tritonal",
+                        "type": "artist",
+                        "uri": "spotify:artist:521qvhdobR0GzhvU6TFw76"
+                    }
+                ],
+                "featuredArtists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6roDXEmZ6AARdOUv6x5U2v",
+                        "id": "6roDXEmZ6AARdOUv6x5U2v",
+                        "name": "Felix Cartal",
+                        "type": "artist",
+                        "uri": "spotify:artist:6roDXEmZ6AARdOUv6x5U2v"
+                    }
+                ],
+                "trackTitle": "Get What You Give - Mixed",
+                "trackId": "6rfTkd56APdyDkt6PYC2LL",
+                "trackDuration": 208270,
+                "isrc": "GBKQU2364394",
+                "albumTitle": "15 Years of Enhanced Music, Mixed by Tritonal",
+                "albumId": "5C8snQhscT0LxSOW04q8oL",
+                "albumType": "album",
+                "releaseDate": "2023-07-28"
+            },
+            "albumRequest": {
+                "upc": "5054287536771",
+                "copyRights": [
+                    {
+                        "text": "2023 Enhanced Music",
+                        "type": "C"
+                    },
+                    {
+                        "text": "2023 Enhanced Music",
+                        "type": "P"
+                    }
+                ],
+                "label": "Enhanced Music"
+            }
+        },
+        {
+            "trackRequest": {
+                "releaseArtists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6roDXEmZ6AARdOUv6x5U2v",
+                        "id": "6roDXEmZ6AARdOUv6x5U2v",
+                        "name": "Felix Cartal",
+                        "type": "artist",
+                        "uri": "spotify:artist:6roDXEmZ6AARdOUv6x5U2v"
+                    }
+                ],
+                "featuredArtists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6roDXEmZ6AARdOUv6x5U2v",
+                        "id": "6roDXEmZ6AARdOUv6x5U2v",
+                        "name": "Felix Cartal",
+                        "type": "artist",
+                        "uri": "spotify:artist:6roDXEmZ6AARdOUv6x5U2v"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3O1pwCWEGC95srREtbTFy1"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3O1pwCWEGC95srREtbTFy1",
+                        "id": "3O1pwCWEGC95srREtbTFy1",
+                        "name": "Billon",
+                        "type": "artist",
+                        "uri": "spotify:artist:3O1pwCWEGC95srREtbTFy1"
+                    }
+                ],
+                "trackTitle": "Get What You Give - Billon Remix",
+                "trackId": "2F5Mms4xpO0QoNufw8KPST",
+                "trackDuration": 237862,
+                "isrc": "CAM371702370",
+                "albumTitle": "Get What You Give (Remixes)",
+                "albumId": "7AoMsnUDNgNQK1Zx1WXvUe",
+                "albumType": "single",
+                "releaseDate": "2017-08-11"
+            },
+            "albumRequest": {
+                "upc": "00602557924329",
+                "copyRights": [
+                    {
+                        "text": "\u00a9 2017 Enhanced Music Limited, under exclusive licence to Universal Music Operations Limited",
+                        "type": "C"
+                    },
+                    {
+                        "text": "\u2117 2017 Enhanced Music Limited, under exclusive licence to Universal Music Operations Limited",
+                        "type": "P"
+                    }
+                ],
+                "label": "Polydor Records"
+            }
+        },
+        {
+            "trackRequest": {
+                "releaseArtists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6roDXEmZ6AARdOUv6x5U2v",
+                        "id": "6roDXEmZ6AARdOUv6x5U2v",
+                        "name": "Felix Cartal",
+                        "type": "artist",
+                        "uri": "spotify:artist:6roDXEmZ6AARdOUv6x5U2v"
+                    }
+                ],
+                "featuredArtists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6roDXEmZ6AARdOUv6x5U2v",
+                        "id": "6roDXEmZ6AARdOUv6x5U2v",
+                        "name": "Felix Cartal",
+                        "type": "artist",
+                        "uri": "spotify:artist:6roDXEmZ6AARdOUv6x5U2v"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/15T7qZv0kn5j8U8juOxFm3"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/15T7qZv0kn5j8U8juOxFm3",
+                        "id": "15T7qZv0kn5j8U8juOxFm3",
+                        "name": "Bobby Love",
+                        "type": "artist",
+                        "uri": "spotify:artist:15T7qZv0kn5j8U8juOxFm3"
+                    }
+                ],
+                "trackTitle": "Get What You Give - Bobby Love Remix",
+                "trackId": "5gOIgFkzCaw3hsVGbtGkva",
+                "trackDuration": 408292,
+                "isrc": "CAM371702368",
+                "albumTitle": "Get What You Give (Remixes)",
+                "albumId": "7AoMsnUDNgNQK1Zx1WXvUe",
+                "albumType": "single",
+                "releaseDate": "2017-08-11"
+            },
+            "albumRequest": {
+                "upc": "00602557924329",
+                "copyRights": [
+                    {
+                        "text": "\u00a9 2017 Enhanced Music Limited, under exclusive licence to Universal Music Operations Limited",
+                        "type": "C"
+                    },
+                    {
+                        "text": "\u2117 2017 Enhanced Music Limited, under exclusive licence to Universal Music Operations Limited",
+                        "type": "P"
+                    }
+                ],
+                "label": "Polydor Records"
+            }
+        },
+        {
+            "trackRequest": {
+                "releaseArtists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+                        "id": "0LyfQWJT6nXafLPZqxe9Of",
+                        "name": "Various Artists",
+                        "type": "artist",
+                        "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                    }
+                ],
+                "featuredArtists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6roDXEmZ6AARdOUv6x5U2v",
+                        "id": "6roDXEmZ6AARdOUv6x5U2v",
+                        "name": "Felix Cartal",
+                        "type": "artist",
+                        "uri": "spotify:artist:6roDXEmZ6AARdOUv6x5U2v"
+                    }
+                ],
+                "trackTitle": "Get What You Give",
+                "trackId": "4IWqGWA8cii8Nmrpuhk6aU",
+                "trackDuration": 219173,
+                "isrc": "CAM371602233",
+                "albumTitle": "Golden Hour",
+                "albumId": "5e9Z6BbIaQiH3icKU6cgDw",
+                "albumType": "compilation",
+                "releaseDate": "2024-02-16"
+            },
+            "albumRequest": {
+                "upc": "823675297335",
+                "copyRights": [
+                    {
+                        "text": "\u00a9 2024 Physical Presents",
+                        "type": "C"
+                    },
+                    {
+                        "text": "\u2117 2024 Physical Presents",
+                        "type": "P"
+                    }
+                ],
+                "label": "Physical Presents"
+            }
+        },
+        {
+            "trackRequest": {
+                "releaseArtists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/02yAFneLJmw5bqHN4cnANN"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/02yAFneLJmw5bqHN4cnANN",
+                        "id": "02yAFneLJmw5bqHN4cnANN",
+                        "name": "Floes",
+                        "type": "artist",
+                        "uri": "spotify:artist:02yAFneLJmw5bqHN4cnANN"
+                    }
+                ],
+                "featuredArtists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/02yAFneLJmw5bqHN4cnANN"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/02yAFneLJmw5bqHN4cnANN",
+                        "id": "02yAFneLJmw5bqHN4cnANN",
+                        "name": "Floes",
+                        "type": "artist",
+                        "uri": "spotify:artist:02yAFneLJmw5bqHN4cnANN"
+                    }
+                ],
+                "trackTitle": "Uprising",
+                "trackId": "7GKsmDSEAz1kUKxhza8I8K",
+                "trackDuration": 209520,
+                "isrc": "CA3851800005",
+                "albumTitle": "Passionals",
+                "albumId": "73ltJa5lfyXH8GvAc7OydW",
+                "albumType": "single",
+                "releaseDate": "2018-04-27"
+            },
+            "albumRequest": {
+                "upc": "192914147534",
+                "copyRights": [
+                    {
+                        "text": "2018 Floes",
+                        "type": "C"
+                    },
+                    {
+                        "text": "2018 Floes",
+                        "type": "P"
+                    }
+                ],
+                "label": "Floes"
+            }
+        }
+    ]
+}

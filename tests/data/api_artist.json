@@ -1,0 +1,33 @@
+{
+    "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41"
+    },
+    "followers": {
+        "href": null,
+        "total": 54732
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/artists/6mzs66iVW15C5iLt0JLt41",
+    "id": "6mzs66iVW15C5iLt0JLt41",
+    "images": [
+        {
+            "url": "https://i.scdn.co/image/ab6761610000e5eb69edf4a88c717b0d7c4cf499",
+            "height": 640,
+            "width": 640
+        },
+        {
+            "url": "https://i.scdn.co/image/ab6761610000517469edf4a88c717b0d7c4cf499",
+            "height": 320,
+            "width": 320
+        },
+        {
+            "url": "https://i.scdn.co/image/ab6761610000f17869edf4a88c717b0d7c4cf499",
+            "height": 160,
+            "width": 160
+        }
+    ],
+    "name": "ILIRA",
+    "popularity": 52,
+    "type": "artist",
+    "uri": "spotify:artist:6mzs66iVW15C5iLt0JLt41"
+}
