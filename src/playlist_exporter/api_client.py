@@ -38,7 +38,7 @@ def get_base_and_headers(client_id: str, client_secret: str) -> tuple:
     return base_url, headers
 
 """ The repeat code for when I make a request to the api. It's poorly done it needs some error protection """
-def get_request(url: str, headers: str) -> str:
+def get_request(url: str, headers: str) -> str: # I think this isn't a str
 
     response = requests.get(url=url, headers=headers)
 
@@ -48,20 +48,19 @@ def get_request(url: str, headers: str) -> str:
     else:
         return f"fetch error: {response.status_code}" # Change this so that it throws an actual error and stop the program where it is. Don't want funny bits of missing data
     
-""" This returns a list of dictionaries, where each dictionary represents data about an individual track. It stores more than we would like to display but I feel that some of
-    the extra information is useful. Could even store more information than i've currently got. Might get rid of the whole nested dictionary thing here. This is also 
-    including some external_url stuff which I don't need
+""" 
+    - Returns a list of dictionaries, where each dictionary represents data about an individual track. 
+    - It stores more than we would like to display but I feel that some of the extra information is useful. Could even store more information than i've currently got. 
+    Might get rid of the whole nested dictionary thing here. This is also including some external_url stuff which I don't need.
+    - In summary, it loads a pages information, checks if there are any nested pages, and if there are it calls itself on the nested page and appends the data. Once it hits
+    the deepest page it returns that pages data and at each unwind it just appends more data.
 """
-def get_playlist_data(base_url: str, headers: str, playlist_id: str) -> list[dict]: # I will try to fix this to do more than 100 songs. Avoid my recursion solution if possible
+def load_playlist_data(page_url, base_url, headers) -> list[dict]: # recursion needs to happen here
 
-    playlist_page = get_request(url=f"{base_url}/playlists/{playlist_id}", headers=headers)
+    playlist_page = get_request(url=page_url, headers=headers)
+    playlist = [] # change the name of this variable, this is tempory
 
-    playlist = {
-        "name": playlist_page["name"],
-        "items": []
-    }
-
-    for item in playlist_page["tracks"]["items"]:
+    for item in playlist_page["items"]: # load it's own data using the formatting that i've already done
 
         track_dict = {}
         track_dict["trackRequest"] = {}
@@ -83,6 +82,24 @@ def get_playlist_data(base_url: str, headers: str, playlist_id: str) -> list[dic
         track_dict["albumRequest"]["copyRights"] = item_album["copyrights"]
         track_dict["albumRequest"]["label"] = item_album["label"]
 
-        playlist["items"].append(track_dict)
+        # This is where all my dict stuff from above should go
+
+        playlist.append(track_dict)
+    
+    # if nesting possible, then nest and extend new data onto own data
+    if playlist_page["next"] is not None: # Might be null type sometimes
+        playlist.extend(load_playlist_data(page_url=playlist_page["next"], base_url=base_url, headers=headers))
+    
+    return playlist
+    
+"""
+    Very simple, the main purpose of this function is to provide an easily formatted function to be called by main. It passes all the hard work to load_playlist_data
+"""
+def get_playlist(base_url, headers, playlist_id): # One api call which is repeated :( because it needs to be in two places
+    
+    playlist = {
+        "name": get_request(url=f"{base_url}/playlists/{playlist_id}", headers=headers)["name"], # I think this is at risk of behaving strange if we don't have a response:200
+        "items": load_playlist_data(page_url=f"{base_url}/playlists/{playlist_id}/tracks?offset=0&limit=100", base_url=base_url, headers=headers) # this url might seem like overkill but I did it for consitency
+    }
 
     return playlist

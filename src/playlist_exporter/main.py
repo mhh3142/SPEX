@@ -6,7 +6,7 @@ from dotenv import load_dotenv
 # I think it should be from python-dotenv import load_dotenv, this is v confusing cus vs code isn't recognising python-dotenv
 
 from playlist_exporter.api_client import get_base_and_headers
-from playlist_exporter.api_client import get_playlist_data
+from playlist_exporter.api_client import get_playlist
 from playlist_exporter.exporter import export_to_excel
 from playlist_exporter.formatter import playlist_frame_formatter
 
@@ -34,7 +34,7 @@ def main(playlist_id: str="6LDBQ3pq3nNa2SDPBtCq0L") -> None:
 
     base_url, headers = get_base_and_headers(client_id=client_id, client_secret=client_secret)
 
-    playlist_dict_raw = get_playlist_data(base_url=base_url, headers=headers, playlist_id=playlist_id)
+    playlist_dict_raw = get_playlist(base_url=base_url, headers=headers, playlist_id=playlist_id)
 
     playlist_frame = playlist_frame_formatter(playlist_raw=playlist_dict_raw["items"])
 
