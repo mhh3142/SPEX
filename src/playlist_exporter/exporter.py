@@ -4,8 +4,7 @@ import re
 import pandas as pd
 
 """
-    exports the data frame to an excel document. Eventually I'd
-    like to export different sheets all at different stages of cleaning.
+    exports the data frame to an excel document. Eventually I'd like to export different sheets all at different stages of cleaning.
 """
 def export_to_excel(playlist_name: str, playlist_frame: pd.DataFrame) -> None:
 

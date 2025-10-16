@@ -3,7 +3,6 @@ import os
 import re
 
 from dotenv import load_dotenv
-# I think it should be from python-dotenv import load_dotenv, this is v confusing cus vs code isn't recognising python-dotenv
 
 from playlist_exporter.api_client import get_base_and_headers
 from playlist_exporter.api_client import get_playlist
@@ -11,10 +10,11 @@ from playlist_exporter.exporter import export_to_excel
 from playlist_exporter.formatter import playlist_frame_formatter
 
 """
-    Loads our private information into the program, creates our important api variables, calls the api module to get api information, calls the format module to format the
-    information, then finally calls the exporter module to export the information.
+    Handles command line input using argparse, extracts the playlist id from the playlist url using regex, loads secret information from .env using python-dotenv, finally
+    runs 
 """
-def main(playlist_id: str="6LDBQ3pq3nNa2SDPBtCq0L") -> None:
+
+def main() -> None:
 
     # using argparse to store the spotify link into a link variable
     parser = argparse.ArgumentParser(description="Read playlist url and launch program")

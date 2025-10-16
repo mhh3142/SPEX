@@ -1,10 +1,11 @@
-import requests
 import json
 import base64
 
+import requests
+
 """ 
-    When you successfully request access the api returns a dictionary of the form {'access_token': '...', 'token_type': 'Bearer', 'expires_in': 3600}
-    this function just returns the access token.
+    Uses client_id and client_secret to request auth info from the api. Function returns access token. This function follows the client credentials flow from
+    spotify web api documentation
 """
 def get_access_token(client_id: str, client_secret: str) -> str:
     
@@ -25,8 +26,7 @@ def get_access_token(client_id: str, client_secret: str) -> str:
     return access_token
 
 """ 
-    Formats the information from get_access_token into a more practical way, also writes in the base_url. I think it makes more sense for the api client to handle base_url
-    structure wise, it makes main neater.
+    Calls the get_access_token to get the auth code, packages the info up and sends it. This function is designed to keep main neat.
 """
 def get_base_and_headers(client_id: str, client_secret: str) -> tuple:
 
@@ -37,16 +37,18 @@ def get_base_and_headers(client_id: str, client_secret: str) -> tuple:
 
     return base_url, headers
 
-""" The repeat code for when I make a request to the api. It's poorly done it needs some error protection """
-def get_request(url: str, headers: str) -> str: # I think this isn't a str
-
+""" 
+    The repeat code for when I make a request to the api.
+"""
+def get_request(url: str, headers: dict): # need to figure out what the type of the return is
+    # Should add some error handling to this function
     response = requests.get(url=url, headers=headers)
 
     if response.ok:
         json_response = json.loads(response.content)
         return json_response
     else:
-        return f"fetch error: {response.status_code}" # Change this so that it throws an actual error and stop the program where it is. Don't want funny bits of missing data
+        return f"fetch error: {response.status_code}" # This should throw this error message and stop stuff cus it's a nightmare to find this error
     
 """ 
     - Returns a list of dictionaries, where each dictionary represents data about an individual track. 
@@ -55,10 +57,10 @@ def get_request(url: str, headers: str) -> str: # I think this isn't a str
     - In summary, it loads a pages information, checks if there are any nested pages, and if there are it calls itself on the nested page and appends the data. Once it hits
     the deepest page it returns that pages data and at each unwind it just appends more data.
 """
-def load_playlist_data(page_url, base_url, headers) -> list[dict]: # recursion needs to happen here
+def load_playlist_data(page_url: str, base_url: str, headers: dict) -> list[dict]:
 
     playlist_page = get_request(url=page_url, headers=headers)
-    playlist = [] # change the name of this variable, this is tempory
+    playlist = []
 
     for item in playlist_page["items"]: # load it's own data using the formatting that i've already done
 
@@ -82,8 +84,6 @@ def load_playlist_data(page_url, base_url, headers) -> list[dict]: # recursion n
         track_dict["albumRequest"]["copyRights"] = item_album["copyrights"]
         track_dict["albumRequest"]["label"] = item_album["label"]
 
-        # This is where all my dict stuff from above should go
-
         playlist.append(track_dict)
     
     # if nesting possible, then nest and extend new data onto own data
@@ -93,13 +93,14 @@ def load_playlist_data(page_url, base_url, headers) -> list[dict]: # recursion n
     return playlist
     
 """
-    Very simple, the main purpose of this function is to provide an easily formatted function to be called by main. It passes all the hard work to load_playlist_data
+    Calls load_playlist_data to get the track list data, packages the info up and sends it. This function is designed to keep main neat. Unfortunately we have to repeat
+    an api call to get the name of the playlist, I think this is unavoidable as the info needs to be in two different places at once.
 """
-def get_playlist(base_url, headers, playlist_id): # One api call which is repeated :( because it needs to be in two places
+def get_playlist(base_url: str, headers: dict, playlist_id: str) -> dict:
     
     playlist = {
-        "name": get_request(url=f"{base_url}/playlists/{playlist_id}", headers=headers)["name"], # I think this is at risk of behaving strange if we don't have a response:200
-        "items": load_playlist_data(page_url=f"{base_url}/playlists/{playlist_id}/tracks?offset=0&limit=100", base_url=base_url, headers=headers) # this url might seem like overkill but I did it for consitency
+        "name": get_request(url=f"{base_url}/playlists/{playlist_id}", headers=headers)["name"],
+        "items": load_playlist_data(page_url=f"{base_url}/playlists/{playlist_id}/tracks?offset=0&limit=100", base_url=base_url, headers=headers)
     }
 
     return playlist

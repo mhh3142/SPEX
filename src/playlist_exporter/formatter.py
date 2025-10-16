@@ -3,7 +3,7 @@ import re
 import pandas as pd
 
 """ Uses regex to convert the date from Spotify's YYYY-MM-DD format into Lime Blue's DD/MM/YY format. Spotify provides a precision value for the date. Lime Blue has a procedure 
-    for dates given to poor precision. add that functionality to my function, it's important
+    for dates given to poor precision. add that functionality to my function, it's important.
 """
 def format_date(date: str) -> str:
 

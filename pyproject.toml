@@ -13,7 +13,9 @@ requires-python = ">=3.13.7"
 dependencies = [
     "pandas",
     "requests",
-    "dotenv"
+    "python-dotenv",
+    "requests",
+    "openpyxl"
 ]
 
 [tool.setuptools]
