@@ -10,6 +10,12 @@ from playlist_exporter.exporter import export_to_excel
 from playlist_exporter.formatter import playlist_frame_formatter
 
 """
+    I HAD LISTED REQUESTS TWICE IN THE .TOML FILE, WHEN I MERGE THIS BRANCH INTO THE MAIN BRANCH MAKE A NOTE ON COMMIT.
+    ALSO NOW THAT I THINK OF IT MAYBE PYTEST SHOULD BE IN DEV DEPENDENCIES.
+"""
+
+
+"""
     Handles command line input using argparse, extracts the playlist id from the playlist url using regex, loads secret information from .env using python-dotenv, finally
     runs 
 """
