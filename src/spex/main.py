@@ -4,20 +4,27 @@ import re
 
 from dotenv import load_dotenv
 
-from playlist_exporter.api_client import get_base_and_headers
-from playlist_exporter.api_client import get_playlist
-from playlist_exporter.exporter import export_to_excel
-from playlist_exporter.formatter import playlist_frame_formatter
+from spex.api_client import get_base_and_headers
+from spex.api_client import get_playlist
+from spex.exporter import export_to_excel
+from spex.formatter import playlist_frame_formatter
 
 """
     I HAD LISTED REQUESTS TWICE IN THE .TOML FILE, WHEN I MERGE THIS BRANCH INTO THE MAIN BRANCH MAKE A NOTE ON COMMIT.
     ALSO NOW THAT I THINK OF IT MAYBE PYTEST SHOULD BE IN DEV DEPENDENCIES.
 """
-
+"""
+    When I created this branch I was in new-api-error-handling
+"""
 
 """
     Handles command line input using argparse, extracts the playlist id from the playlist url using regex, loads secret information from .env using python-dotenv, finally
     runs 
+"""
+
+"""
+    io.BytesIO could be the thing that speeds my life up. It avoids disc operations and puts it on RAM instead which is quicker apparently. Doesn't have to be BytesIO, theres others
+    for different data types
 """
 
 def main() -> None:

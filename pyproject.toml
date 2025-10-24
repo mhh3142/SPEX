@@ -21,6 +21,10 @@ dependencies = [
 dev = [
     "pytest>=8.4.2"
 ]
+web = [
+    "fastapi>=0.119.1",
+    "uvicorn>=0.38.0"
+]
 
 [tool.setuptools]
 package-dir = {""="src"}

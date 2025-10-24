@@ -3,6 +3,13 @@ import re
 
 import pandas as pd
 
+
+"""
+    Might be safer to use pd.ExcelWriter. I think it's like regular file operations cus it has funcs like .close() and it supports with statements.
+    I think it opens the excel file and gives you a way to refer to it
+"""
+
+
 """
     exports the data frame to an excel document. Eventually I'd like to export different sheets all at different stages of cleaning.
 """
